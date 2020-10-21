@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/dashboard/static/js/main.430b5653.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.430b5653.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.9f3afc0c.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.9f3afc0c.js.map",
+    "static/js/2.a252d1df.chunk.js": "/dashboard/static/js/2.a252d1df.chunk.js",
+    "static/js/2.a252d1df.chunk.js.map": "/dashboard/static/js/2.a252d1df.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.c47a2ab7d58743c99e5489f5ddf4661a.js": "/dashboard/precache-manifest.c47a2ab7d58743c99e5489f5ddf4661a.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/js/2.a252d1df.chunk.js.LICENSE.txt": "/dashboard/static/js/2.a252d1df.chunk.js.LICENSE.txt",
+    "static/media/logo@3x.png": "/dashboard/static/media/logo@3x.ca9d8aa8.png",
+    "static/media/png_eth@3x.png": "/dashboard/static/media/png_eth@3x.0466c09f.png",
+    "static/media/png_frenbtc_56px@3x.png": "/dashboard/static/media/png_frenbtc_56px@3x.d51efaf2.png",
+    "static/media/png_usdc_56px@3x.png": "/dashboard/static/media/png_usdc_56px@3x.658adb89.png",
+    "static/media/png_wbtc_56px@3x.png": "/dashboard/static/media/png_wbtc_56px@3x.2e5ffd23.png",
+    "static/media/wiki.png": "/dashboard/static/media/wiki.4b49c39a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f3afc0c.js",
+    "static/js/2.a252d1df.chunk.js",
+    "static/js/main.430b5653.chunk.js"
+  ]
+}
